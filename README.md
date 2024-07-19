@@ -25,7 +25,7 @@ Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Gro
 
 ## Step 3: Record Your Presentation
 
-1. Use Loom (https://www.loom.com/).
+1. Use Loom (https://www.loom.com/share/c0514f35eb484131be88530629606583?sid=ca9e8c18-4fbb-423e-8a67-dc8b0fe85012).
 2. Create a single video presentation for both examples that include the following:
 
    - Introduction of the example number.
